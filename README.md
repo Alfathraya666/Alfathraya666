@@ -3,9 +3,10 @@
   <img src="./assets/header.svg" alt="Header" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknologi+Informasi+%40+Polinema;Suka+bikin+web+app+%26+ngoprek+database;Lagi+belajar+Arduino+%26+IoT" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="./assets/rayaaa-header-animated.gif" alt="Rayaaa - Informatics Engineering Student" width="100%" />
+</p>
+
 
 <br/>
 
