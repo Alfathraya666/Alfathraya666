@@ -1,60 +1,96 @@
-<!-- Ganti semua "USERNAME", "NAMA KAMU", dan link repo sesuai milikmu. -->
 
 <div align="center">
-  <img src="./assets/header.svg" alt="header" width="100%"/>
+  <img src="./assets/header.svg" alt="Header" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknologi+Informasi+%40+Polinema;Suka+bikin+web+app+%26+ngoprek+database;Lagi+belajar+Arduino+%26+IoT" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=600&lines=Mahasiswa+Teknologi+Informasi+%40+Polinema;Suka+bikin+web+app+%26+ngoprek+database;Lagi+belajar+Arduino+%26+IoT" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## Tech Stack
+##  About Me
+
+I'm an Informatics Engineering student at Polinema with an interest in web development, cybersecurity, and data analytics. Currently, I'm focusing on web development while gradually exploring other areas of technology and strengthening my programming fundamentals.
+
+##  Currently Working With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,js,html,css,cpp,postgres,mysql,git,github,vscode,arduino,vercel&perline=13&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,php&theme=dark" alt="Currently Working With" />
 </div>
 
-## Projects
+##  Currently Exploring
 
-| Project | Deskripsi | Stack |
-| --- | --- | --- |
-| [AutoBekas Marketplace](https://github.com/USERNAME/NAMA-REPO) | Platform jual-beli mobil bekas | PHP, PostgreSQL |
-| [SIMPUS-Mini](https://github.com/USERNAME/NAMA-REPO) | Sistem informasi perpustakaan sederhana | PHP, HTML, CSS |
-| [PICO Canteen Order](https://github.com/USERNAME/NAMA-REPO) | Aplikasi pemesanan kantin (proyek PBL) | Web |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,postgres,mysql,arduino&theme=dark" alt="Currently Exploring" />
+</div>
 
-## Currently
+##  Tools
 
-- Mendalami PostgreSQL (function, view, stored procedure)
-- Belajar Arduino dan dasar IoT
-- Latihan OOP dengan Java
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Development Tools" />
+</div>
 
-## Contribution Snake
+
+##  Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| AutoBekas Marketplace | Platform jual-beli mobil bekas | PHP, PostgreSQL |
+| SIMPUS-Mini | Sistem informasi perpustakaan sederhana | PHP, HTML, CSS |
+| PICO | Proyek aplikasi web pemesanan kantin | Web Development, Database |
+
+<!-- Tambahkan link repository asli pada nama project di atas jika sudah tersedia. -->
+
+##  Currently Learning
+
+- PostgreSQL: Functions, Views, and Stored Procedures
+- Java: Object-Oriented Programming
+- Web Development: Frontend and Backend
+- Arduino and Basic IoT
+
+##  Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Alfathraya666/Alfathraya666/output/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Alfathraya666/Alfathraya666/output/github-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Alfathraya666/Alfathraya666/output/github-snake.svg"
+      width="100%" />
   </picture>
 </div>
 
-## GitHub Stats
+##  GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=Alfathraya666&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats" />
+
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfathraya666&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Alfathraya666&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity" />
 </div>
 
-## Contact
+## 📫 Contact
 
 <div align="center">
-
-[LinkedIn](https://linkedin.com/in/USERNAME) · [Email](mailto:emailkamu@gmail.com) · [Instagram](https://instagram.com/USERNAME)
-
+  <a href="https://github.com/Alfathraya666">
+    <img src="https://img.shields.io/badge/GitHub-Alfathraya666-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
 </div>
