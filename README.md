@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="./assets/header.svg" alt="Header" width="100%" />
-</div>
-
 <p align="center">
   <img src="./assets/rayaaa-header-animated.gif" alt="Rayaaa - Informatics Engineering Student" width="100%" />
 </p>
